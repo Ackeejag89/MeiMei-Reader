@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeiMeiReader.iOS", "iOS\Mei
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeiMeiReader.Droid", "Droid\MeiMeiReader.Droid.csproj", "{C20737BB-4064-4371-943E-4F3176A45D47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4chanService", "4chanService\4chanService.csproj", "{31AE4347-36FD-4683-A78A-E566C3851631}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,5 +55,17 @@ Global
 		{C20737BB-4064-4371-943E-4F3176A45D47}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{C20737BB-4064-4371-943E-4F3176A45D47}.Debug|iPhone.ActiveCfg = Debug|Any CPU
 		{C20737BB-4064-4371-943E-4F3176A45D47}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{31AE4347-36FD-4683-A78A-E566C3851631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31AE4347-36FD-4683-A78A-E566C3851631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31AE4347-36FD-4683-A78A-E566C3851631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31AE4347-36FD-4683-A78A-E566C3851631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31AE4347-36FD-4683-A78A-E566C3851631}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{31AE4347-36FD-4683-A78A-E566C3851631}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{31AE4347-36FD-4683-A78A-E566C3851631}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{31AE4347-36FD-4683-A78A-E566C3851631}.Release|iPhone.Build.0 = Release|Any CPU
+		{31AE4347-36FD-4683-A78A-E566C3851631}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{31AE4347-36FD-4683-A78A-E566C3851631}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{31AE4347-36FD-4683-A78A-E566C3851631}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{31AE4347-36FD-4683-A78A-E566C3851631}.Debug|iPhone.Build.0 = Debug|Any CPU
 	EndGlobalSection
 EndGlobal

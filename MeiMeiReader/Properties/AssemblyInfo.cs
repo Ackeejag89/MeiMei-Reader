@@ -5,11 +5,11 @@ using System.Runtime.CompilerServices;
 // Change them to the values specific to your project.
 
 [assembly: AssemblyTitle("MeiMeiReader")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("PCL For 4chan reader app")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("PineapplesRUs")]
 [assembly: AssemblyProduct("")]
-[assembly: AssemblyCopyright("jgreene")]
+[assembly: AssemblyCopyright("PineapplesRUs")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
